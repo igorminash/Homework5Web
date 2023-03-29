@@ -1,0 +1,35 @@
+{
+    "employee": [
+        {
+            "id": 1,
+            "name": "Igor",
+            "age": 24,
+            "city" : "Minsk"
+        },
+        {
+            "id": 2,
+            "name": "Alesya",
+            "age": 22,
+            "city" : "Minsk"
+        },
+        {
+            "id": 3,
+            "name": "Arseniy",
+            "age": 24,
+            "city" : "Zelva"
+        },
+        {
+            "id": 4,
+            "name": "Maksim",
+            "age": 24,
+            "city" : "Grodno"
+        },
+        {
+            "id": 5,
+            "name": "Pavel",
+            "age": 24,
+            "city" : "Minsk"
+        }
+    ]
+   
+}
